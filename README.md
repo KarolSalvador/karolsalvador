@@ -73,7 +73,7 @@ A simulação foi feita na **BitDogLab** e pode ser conferida no vídeo abaixo.
 ## 📫 Contato
 
 📧 **Email:** karolsalvador91@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/karolsalvador/(#)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/karolsalvador](https://www.linkedin.com/in/karolsalvador/)  
 
 Sempre aberta a novas oportunidades e desafios! 🚀
 
