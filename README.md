@@ -25,7 +25,7 @@ Sou uma desenvolvedora em formação, apaixonada por tecnologia e inovação. At
 
 
 
-- **Desenvolvimento**: Front-End, Sistemas Embarcados, IoT
+- **Desenvolvimento**: Front-End
 - **Ferramentas**: Git, GitHub, Visual Studio Code (VSCode), npm
 - **Outras habilidades**: Lógica de Programação, Testes de Software, Desenvolvimento Responsivo
 
@@ -33,6 +33,9 @@ Sou uma desenvolvedora em formação, apaixonada por tecnologia e inovação. At
 
 🎓 **Análise e Desenvolvimento de Sistemas** – UniAteneu *(2024 - Em andamento)*  
 🎓 **Ciências Contábeis** – UniAteneu *(2019 - Concluído)*
+
+🎯 **Bootcamp Desenvolve (Grupo Boticário) - 160h**  
+📌 Desenvolvimento FullStack (Node, React, Next.js) e Aplicações Reais
 
 🎯 **Sistemas Embarcados (EmbarcaTech) – IFCE (160h)**  
 📌 Programação em C, Microcontroladores, IoT e Aplicações Reais
@@ -45,31 +48,36 @@ Sou uma desenvolvedora em formação, apaixonada por tecnologia e inovação. At
 
 ## 💡 Projetos
 
-🔹 **🐶 Sistema de Recompensa Automática para Pets #** -Este projeto tem como objetivo automatizar o sistema de recompensa para pets, liberando petiscos de forma controlada com sensores. 
-A simulação foi feita na **BitDogLab** e pode ser conferida no vídeo abaixo.  
+## 📄 **Gerador de Currículo Interativo com Visualização em Tempo Real**
 
-🔗 **Demonstração do projeto:** YouTube - Demonstração: https://www.youtube.com/shorts/W83RpyJlnjA
+Este projeto é uma aplicação web interativa desenvolvida para simplificar a criação de currículos. Ele guia o usuário por um formulário passo a passo para inserir dados pessoais, experiências, formação e habilidades, com uma visualização do currículo sendo gerada e atualizada em tempo real.
+
+🔗 **Acesse no Vercel:** https://react-cv-builder.vercel.app/
+---
+
+## 📌 **Principais Funcionalidades**
+
+* **Formulário em Etapas:** O processo de preenchimento é dividido em seções claras e fáceis de navegar.
+* **Seções de Conteúdo:** O currículo pode ser criado com base nas seguintes informações:
+    * **Dados Pessoais**
+    * **Histórico Profissional**
+    * **Formação Acadêmica**
+    * **Habilidades**
+* **Gerador de Currículo:** Um painel lateral exibe instantaneamente como o currículo ficará com base nos dados inseridos, permitindo edições imediatas.
+* **Adicionar e Remover Itens:** É possível adicionar múltiplos registros de experiência, formação e habilidades, com a opção de removê-los a qualquer momento.
 
 ---
 
-## 📌 **Principais Funcionalidades**  
-✅ Liberação automática de petiscos baseada em um **sensor de peso**  
-✅ Feedback visual e sonoro com **LEDs e Buzzer**  
-✅ Exibição de mensagens no **Display OLED**  
-✅ Simulação do projeto utilizando **BitDogLab**  
+## 🛠️ **Tecnologias e Componentes Utilizados**
 
----
-
-## 🛠️ **Tecnologias e Componentes Utilizados**  
-- **Microcontrolador**: RP2040 (Raspberry Pi Pico W)  
-- **Sensores e Atuadores**:  
-  - **Sensor de Peso** (simulado pelo botão A)  
-  - **Matriz de LEDs WS2818B**  
-  - **Buzzer**  
-  - **Display OLED SSD1306**  
-- **Linguagem de Programação**: C  
-- **Bibliotecas Utilizadas**: `pico/stdlib.h`, `hardware/i2c.h`, `ssd1306.h`, `hardware/pwm.h`, `ws2818b.pio.h`  
-
+* **Front-end:**
+    * **React:** Para a interface do usuário e a gestão do estado.
+    * **TypeScript:** Para garantir tipagem segura do código.
+* **Estilização:**
+    * **Tailwind CSS:** Para estilização rápida e responsiva, com foco em classes de utilidade.
+* **Ferramentas de Desenvolvimento:**
+    * **Vite:** Utilizado como ferramenta de build para um ambiente de desenvolvimento ágil.
+    * **ESLint:** Para garantir a qualidade e consistência do código.
 ---
 
 ## 📫 Contato
