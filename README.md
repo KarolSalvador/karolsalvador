@@ -16,16 +16,11 @@ Sou uma desenvolvedora em formação, apaixonada por tecnologia e inovação. At
 </div>
 
 <!-- <img src="" alt="CSS icon" width="40" height="40" style="max-width:100%;margin: 0 2px;"></img> -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karolsalvador&show_icons=true&theme=dark&card_width=400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolsalvador&layout=compact&theme=dark&card_width=400" />
-</div>
-
 
 
 
 - **Desenvolvimento**: Front-End
-- **Ferramentas**: Git, GitHub, Visual Studio Code (VSCode), npm
+- **Ferramentas**: Git, GitHub, Visual Studio Code (VSCode), npm, Docker, n8n
 - **Outras habilidades**: Lógica de Programação, Testes de Software, Desenvolvimento Responsivo
 
 ## 📚 Formação & Cursos
