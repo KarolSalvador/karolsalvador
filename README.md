@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Karoline Salvador!
 
-Sou uma desenvolvedora em formação, apaixonada por tecnologia e inovação. Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas** e tenho experiência com desenvolvimento de software, incluindo **Front-End**, **Sistemas Embarcados** e **IoT**.
+Sou uma desenvolvedora em formação, apaixonada por tecnologia e inovação. Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas** e tenho experiência acadêmica com desenvolvimento web, incluindo **Front-End** e **Back-end**.
 
 ## 🚀 Habilidades
 
